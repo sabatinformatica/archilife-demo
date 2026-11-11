@@ -1,0 +1,9 @@
+{
+  "branchId": "00000000-0000-4000-8000-000000000001",
+  "branchCode": "SUC-001",
+  "branchName": "Farmacia Demo Centro",
+  "centralApiUrl": "https://central.example.com/api",
+  "localApiPort": 3001,
+  "webPort": 3000,
+  "databaseName": "archilife_branch"
+}
